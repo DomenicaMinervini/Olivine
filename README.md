@@ -1,2 +1,2 @@
 # Olivine
-Report and presentation for Nanoscale Solid State Physics exam.
+Olivine for CO2 capture and safe storage.
